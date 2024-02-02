@@ -4,7 +4,7 @@ Grocery Store Analysis has 2 year's worth of data (1997-1998) from a fictitious 
 
 ## Preview
 
-
+![2024-02-0123-00-54-ezgif com-video-to-gif-converter](https://github.com/Mlindens/Grocery_Store_Analysis/assets/83295029/14b11ea0-8fb3-45e8-8786-d661c7fb37d0)
 
 
 ## Dataset Overview
@@ -87,6 +87,12 @@ Here's a quick rundown of what you can expect from the dataset:
     * Least profitable product brand on this day: Moms
   * Least profitable country: Canada
     * Most profitable product brand in Canada: Ebony
+
+![1](https://github.com/Mlindens/Grocery_Store_Analysis/assets/83295029/7b3dd718-5332-4cf1-abc5-b5538e7793d1)
+
+![2](https://github.com/Mlindens/Grocery_Store_Analysis/assets/83295029/68322474-a7fa-4272-8082-2bdd00314371)
+
+![3](https://github.com/Mlindens/Grocery_Store_Analysis/assets/83295029/2116b852-12e2-4329-ad2a-581a9aa44ecc)
 
 Data Source: Maven Analytics
 
