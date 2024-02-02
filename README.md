@@ -92,7 +92,7 @@ Here's a quick rundown of what you can expect from the dataset:
 
 ![2](https://github.com/Mlindens/Grocery_Store_Analysis/assets/83295029/68322474-a7fa-4272-8082-2bdd00314371)
 
-![3](https://github.com/Mlindens/Grocery_Store_Analysis/assets/83295029/2116b852-12e2-4329-ad2a-581a9aa44ecc)
+![3](https://github.com/Mlindens/Grocery_Store_Analysis/assets/83295029/c445aede-4afe-44dd-bf9d-30cad80a88d1)
 
 Data Source: Maven Analytics
 
