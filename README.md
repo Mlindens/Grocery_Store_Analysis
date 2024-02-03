@@ -4,7 +4,7 @@ Grocery Store Analysis has 2 year's worth of data (1997-1998) from a fictitious 
 
 ## Preview
 
-![2024-02-0123-00-54-ezgif com-video-to-gif-converter](https://github.com/Mlindens/Grocery_Store_Analysis/assets/83295029/14b11ea0-8fb3-45e8-8786-d661c7fb37d0)
+
 
 
 ## Dataset Overview
@@ -88,11 +88,11 @@ Here's a quick rundown of what you can expect from the dataset:
   * Least profitable country: Canada
     * Most profitable product brand in Canada: Ebony
 
-![1](https://github.com/Mlindens/Grocery_Store_Analysis/assets/83295029/7b3dd718-5332-4cf1-abc5-b5538e7793d1)
+![1](https://github.com/Mlindens/Grocery_Store_Analysis/assets/83295029/585dd2ee-4a67-443d-beda-c69d7705b2fc)
 
-![2](https://github.com/Mlindens/Grocery_Store_Analysis/assets/83295029/68322474-a7fa-4272-8082-2bdd00314371)
+![2](https://github.com/Mlindens/Grocery_Store_Analysis/assets/83295029/89a5b406-3bb3-45ad-9289-b05b6a5d911b)
 
-![3](https://github.com/Mlindens/Grocery_Store_Analysis/assets/83295029/c445aede-4afe-44dd-bf9d-30cad80a88d1)
+![3](https://github.com/Mlindens/Grocery_Store_Analysis/assets/83295029/c3bf4d53-b5a0-4988-97c8-06682638aedb)
 
 Data Source: Maven Analytics
 
