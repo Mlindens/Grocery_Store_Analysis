@@ -4,8 +4,7 @@ Grocery Store Analysis has 2 year's worth of data (1997-1998) from a fictitious 
 
 ## Preview
 
-
-
+![2024-02-0313-37-14-ezgif com-video-to-gif-converter](https://github.com/Mlindens/Grocery_Store_Analysis/assets/83295029/e08e8f88-c0d2-499d-b126-addf855e19a6)
 
 ## Dataset Overview
 
